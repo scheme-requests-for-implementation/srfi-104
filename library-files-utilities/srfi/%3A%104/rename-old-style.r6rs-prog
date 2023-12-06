@@ -1,5 +1,9 @@
 #!r6rs  ;; Required by PLT Scheme.
 
+;;; SPDX-FileCopyrightText: 2010 Derick Eddington
+;;;
+;;; SPDX-License-Identifier: MIT
+
 ;; Requires Xitomatl revision at least 194.
 ;; Usually, this is run with a "searched directory" as the current directory.
 

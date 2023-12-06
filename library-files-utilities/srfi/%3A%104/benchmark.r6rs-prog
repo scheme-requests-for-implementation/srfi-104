@@ -1,4 +1,9 @@
 #!r6rs
+
+;;; SPDX-FileCopyrightText: 2010 Derick Eddington
+;;;
+;;; SPDX-License-Identifier: MIT
+
 (import
   (rnrs)
   (only (srfi :104 library-files-utilities)
