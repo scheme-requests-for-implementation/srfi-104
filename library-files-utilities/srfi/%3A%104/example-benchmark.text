@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2010 Derick Eddington
+#
+# SPDX-License-Identifier: MIT
+
 The below shell session shows how to setup and run the benchmark.
 
 $ scheme-script setup-benchmark.r6rs-prog -sd /tmp/SD-A /tmp/SD-B /tmp/SD-C /tmp/SD-D -la 100 -lf /tmp/libraries.scm -ea 400 200 50 20 10
