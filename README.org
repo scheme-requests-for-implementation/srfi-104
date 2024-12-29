@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2010 Derick Eddington
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 104: Library Files Utilities
 
 ** by Derick Eddington
